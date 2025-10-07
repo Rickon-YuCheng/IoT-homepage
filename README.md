@@ -3,5 +3,5 @@
 
 My IoT course homepage.
 
-Live site: https://corin-yuchen.github.io/IoT-homepage/
+Live site: https://Rickon-yucheng.github.io/IoT-homepage/
 <!-- @user_context_end -->
